@@ -34,4 +34,4 @@ Tip - Hide Dock & Hide Status bar for a cleaner look
 Note: • Due to some Kustom limitations some widgets might take a sec/two to update content as kustom have some delay. (go to kustom settings > Advanced options > update mode > set it to Fast - if you want widgets content to update faster)
 
 
-**This is not a stand-alone app You need the KWGT Kustom Widget Maker to use these Widgets. Available in Google PlayStore.(You can use these widgets with the free version of KWGT from version 3.61+)**
+**This is not a stand-alone app You need the KWGT Kustom Widget Maker to use these Widgets which is Available in Google PlayStore.(You can use these widgets with the free version of KWGT from version 3.61+)**
