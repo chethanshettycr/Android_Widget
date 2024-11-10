@@ -10,7 +10,9 @@ Features:
 Dynamic Theme: Widgets automatically switch between dark and light themes, enhancing usability in various lighting conditions.
 
 <img align="center" alt="Preview of Widget 1" src="https://github.com/user-attachments/assets/aa9683e5-7945-4565-8ef6-f7935a878b4f">
+
 Minimalistic & Functional: Crafted with a minimal style, the widgets provide essential information like time, date, weather, storage, and quick access to apps.
+
 <img align="center" alt="Preview of Widget 2" src="https://github.com/user-attachments/assets/1c12de64-74e6-4839-89ed-7928c21d2b5f">
 
 Easy Setup: Designed for easy integration on a full-screen widget space, so users can enjoy a clean, uncluttered home screen.
