@@ -10,6 +10,7 @@ This KWGT widget pack offers a unique, futuristic experience for Android users, 
 **Dynamic Theme**: Widgets automatically switch between dark and light themes, enhancing usability in various lighting conditions.
 
 <img align="center" alt="Preview of Widget 1" src="https://github.com/user-attachments/assets/aa9683e5-7945-4565-8ef6-f7935a878b4f">
+<h2 align="left"> </h2>
 
 **Minimalistic & Functional**: Crafted with a minimal style, the widgets provide essential information like time, date, weather, storage, and quick access to apps.
 
