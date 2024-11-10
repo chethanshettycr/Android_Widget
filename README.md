@@ -18,5 +18,15 @@ Easy Setup: Designed for easy integration on a full-screen widget space, so user
 
 Customizable Elements: Every widget is built to fit seamlessly with Android home screens and can be further customized to match individual preferences.
 
-
 Ideal for those who value a minimal, intuitive home screen experience, this widget pack reflects an interest in thoughtful design and user-friendly UI elements.
+
+What do you need to use these Widgets?
+
+KWGT Kustom Widget Maker (KWGT)
+
+Nova Launcher *Recommended or can use with any android system launcher (I'm using this in Xiaomi Hyper OS)
+
+Tip - Hide Dock & Hide Status bar for a cleaner look
+
+Note: • Due to some Kustom limitations some widgets might take a sec/two to update content as kustom have some delay. (go to kustom settings > Advanced options > update mode > set it to Fast - if you want widgets content to update faster)
+**This is not a stand-alone app You need the KWGT Kustom Widget Maker to use these Widgets. Available in Google PlayStore.(You can use these widgets with the free version of KWGT from version 3.61+)**
