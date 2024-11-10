@@ -1,3 +1,4 @@
+<h1 align="center">Resonance for KWGT</h1>
 <img align="center" alt="Preview" src="https://github.com/user-attachments/assets/11b62e1e-a08d-4950-9540-60f7dc6e5d74">
 
 Resonance is a KWGT Widget Pack for Dynamic Home Screen Setups for Android 
