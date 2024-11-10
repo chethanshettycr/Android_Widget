@@ -16,7 +16,8 @@ This KWGT widget pack offers a unique, futuristic experience for Android users, 
 
 <img align="center" alt="Preview of Widget 2" src="https://github.com/user-attachments/assets/1c12de64-74e6-4839-89ed-7928c21d2b5f">
 <h2 align="center"> </h2>
-**Easy Setup**: Designed for easy integration on a full-screen widget space, so users can enjoy a clean, uncluttered home screen.
+
+**Easy Setup** : Designed for easy integration on a full-screen widget space, so users can enjoy a clean, uncluttered home screen.
 
 **Customizable Elements**: Every widget is built to fit seamlessly with Android home screens and can be further customized to match individual preferences.
 
