@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://play-lh.googleusercontent.com/4I0r92jtWwSNfz6S9eZIS-D3Q4o2ODBw3NCvx50ctS11Tv4iY5UmhjqMJ2hePgjHYWY">
+
 Resonance is a KWGT Widget Pack for Dynamic Home Screen Setups for Android 
 
 This KWGT widget pack offers a unique, futuristic experience for Android users, enabling them to create sleek, dynamic home screens with ease. The pack includes two custom-designed home screen setups that adapt to both dark and light modes, changing seamlessly based on the time of day. With widgets ranging from calendar displays to storage and weather information, this pack is perfect for users seeking both functionality and a modern aesthetic.
