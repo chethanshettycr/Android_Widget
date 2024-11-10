@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="100" src="https://github.com/user-attachments/assets/90807feb-3cc2-4be8-a8f5-a03d82d03ea4">
+<img align="center" alt="App icon" width="100" src="https://github.com/user-attachments/assets/90807feb-3cc2-4be8-a8f5-a03d82d03ea4">
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/1c12de64-74e6-4839-89ed-7928c21d2b5f">
 
 
 Resonance is a KWGT Widget Pack for Dynamic Home Screen Setups for Android 
