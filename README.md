@@ -35,3 +35,11 @@ Note: • Due to some Kustom limitations some widgets might take a sec/two to up
 
 
 **This is not a stand-alone app You need the KWGT Kustom Widget Maker to use these Widgets which is Available in Google PlayStore.(You can use these widgets with the free version of KWGT from version 3.61+)**
+
+## How to Download and Use?  
+- **Download as a ZIP File**: Click on the "Code" button and select "Download ZIP".
+- Extract the ZIP file to your desired location on your Android device.
+- Install the Resonance apk file on your Android.
+- Make sure you have Installed KWGT widget app from the playstore.
+- Place a Blank KWGT widget on your home screen with full aspect ratio of an widget, Click on the Widget.
+- Then select Resonance widgets, choose between two pages and Valah! there is Your Beautiful Homescreen setup.
