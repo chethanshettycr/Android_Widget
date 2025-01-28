@@ -41,5 +41,5 @@ Note: • Due to some Kustom limitations some widgets might take a sec/two to up
 - Extract the ZIP file to your desired location on your Android device.
 - Install the Resonance apk file on your Android.
 - Make sure you have Installed KWGT widget app from the playstore.
-- Place a Blank KWGT widget on your home screen with full aspect ratio of an widget, Click on the Widget.
+- Place a Blank KWGT widget on your home screen with full aspect ratio of an widget, Click on the Widget placed.
 - Then select Resonance widgets, choose between two pages and Valah! there is Your Beautiful Homescreen setup.
